@@ -5,7 +5,7 @@ import Body from './body/Body'
 const Rotes = (props) => {
     return (
         <BrowserRouter history={props.history}>
-            <Routes>
+            <Routes sx={{backgroundColor: 'green'}}>
                 <Route path='/' element={<Body/>}/>
             </Routes>
         </BrowserRouter>

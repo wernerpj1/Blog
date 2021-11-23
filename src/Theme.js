@@ -29,7 +29,7 @@ const theme = createTheme({
         primary: {
           fontWeight: 300,
           fontFamily: 'Josefin Sans',
-          fontSize: '2em',
+          fontSize: '1.25em',
         }
       }
     },

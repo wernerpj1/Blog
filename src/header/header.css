@@ -1,6 +1,3 @@
-.headerStyle {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: blue;
+.picture {
+    width: 100%;
 }

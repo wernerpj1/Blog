@@ -18,7 +18,7 @@ function App() {
     <Header/>
     <br/>
     <br/>  
-    <Rotes history={history} />
+    <Rotes history={history}/>
     </ThemeProvider>
   </>
   );
